@@ -7,6 +7,7 @@ const Contactanos = () => {
         <Basic>
             <contactanos>
                 <div className="container text-center">
+                <div className="container">
                     <div className="row align-items-center">
                         <div className="col">
                             <div className="col">
@@ -30,6 +31,8 @@ const Contactanos = () => {
                                 <p>contacto@tecnoalex.com</p>
                             </div>
                         </div>
+                        
+                        
                         <div className="col">
                             <div class="mb-3">
                                 <label for="exampleFormControlInput1" class="form-label">Nombre completo</label>
@@ -43,6 +46,7 @@ const Contactanos = () => {
                                 <label for="exampleFormControlTextarea1" class="form-label">Consulta</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>

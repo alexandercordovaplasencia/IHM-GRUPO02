@@ -1,3 +1,8 @@
 .col p {
     font-style: oblique;
 } 
+
+.container {
+    display: inline-block;
+    border: 1px solid black;
+}
