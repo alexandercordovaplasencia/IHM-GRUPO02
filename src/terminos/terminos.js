@@ -47,11 +47,24 @@ const Terminos = () => {
                         </div>
                         <div className="col">
                             <p className="text">
-                                <h6>1. Propiedad intelectual.</h6> 
-                                El presente sitio web, imágenes, contenido, videos, texto, o cualquier otra información brindada que
-                                no sea en excepciones dicha pertenece a la propiedad intelectual de TECNO ALEX S.A.C. así como sus
-                                asociados. Se PROHIBE el uso del material para proyectos personales, sea de carácter comercial u otro
-                                índole en excepción de aprobación por los mismos.
+                                <h6>2. Derechos como consumidor.</h6> 
+                                En el presente sitio web usted tiene derechos los cuales según las normas puede escoger frente a lo que pueda ofrecer la página web.
+                            </p>
+                            <p className="text">
+                                <h6>3. Datos recopilados de usted.</h6> 
+                                La presente página web conserva sus datos de ubicación, dirección, manejo de la página web, y eventos realizados frente a la misma de los usuarios.
+                            </p>
+                            <p className="text">
+                                <h6>4. Conservación de datos.</h6> 
+                                La presente página web conserva sus datos con el único fin de estadísticas de investigación y mejorar la experiencia de ellos mismos, lo hacemos por un año y será guardado correctamente.
+                            </p>
+                            <p className="text">
+                                <h6>5. Cancelación o eliminación de sus datos.</h6> 
+                                Usted puede solicitud una eliminación o borrado de sus datos o cookies según lo establecido con las normas europeas.
+                            </p>
+                            <p className="text">
+                                <h6>6. Conducta aceptada y rechazada en nuestro sitio web.</h6> 
+                                El presente sitio web solo aceptará contenido creado por el usuario que cumpa las reglas de comportamiento de buena conducta del mismo.
                             </p>
                         </div>
                     </div>
