@@ -10,7 +10,7 @@ const Contactanos = () => {
                     <div className="row align-items-center">
                         <div className="col">
                             <div className="col">
-                                <h2>CONTÁCTANOS</h2>
+                                <h2><b>CONTÁCTANOS</b></h2>
                             </div>
                             <br></br>
                             <div className="col">
